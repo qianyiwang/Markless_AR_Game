@@ -20,3 +20,5 @@
 /Users/qianyiwang/Documents/Git/UnityProject/MarkerlessAR/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/qianyiwang/Documents/Git/UnityProject/MarkerlessAR/obj/Debug/Assembly-CSharp.dll
 /Users/qianyiwang/Documents/Git/UnityProject/MarkerlessAR/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/qianyiwang/Documents/Git/UnityProject/MarkerlessAR/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/qianyiwang/Documents/Git/UnityProject/MarkerlessAR/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb

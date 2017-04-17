@@ -1,7 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/webCamScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/collisionScript.cs">
     <Files>
+      <File FileName="Assets/Scripts/collisionScript.cs" Line="18" Column="18" />
       <File FileName="Assets/Scripts/webCamScript.cs" Line="37" Column="24" />
       <File FileName="Assets/Scripts/enemyScript.cs" Line="19" Column="78" />
     </Files>
